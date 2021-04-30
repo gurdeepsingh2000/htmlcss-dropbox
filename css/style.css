@@ -126,21 +126,15 @@ font-family: 'Open Sans', sans-serif;
     height: 1400px;
     margin: 0 auto;
     background-color: greenyellow;
+}
+
+.up-text{
+    margin: 0 auto;
+    height: 50px;
+    width: 50%;
+    background: yellowgreen;
     text-align: center;
-    line-height: 120px;
 }
-
-.txt1{
-    font-size: 50px;
-    font-weight: 600;
-    
-}
-
-.boxes{
-    width: 66%;
-    font-size: 25px;
-}
-
 
 
 
