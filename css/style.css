@@ -142,14 +142,14 @@ font-family: 'Open Sans', sans-serif;
 
 .blocks-container{
     background: darkkhaki;
-    height: 900px;
+    height: 950px;
     width: 80%;
     margin: 0 auto;
     margin-top: 40px;
 }
 
 .first-block,.second-block,.third-block{
-    height: 850px;
+    height: 900px;
     border: black 2px solid;
     width: 30%;
     margin: 20px;
@@ -159,4 +159,44 @@ font-family: 'Open Sans', sans-serif;
     width: 100%;
     height: 50px;
     border: black 2px solid;
+    margin-bottom: 20px;
+}
+
+.monthly-price{
+    width: 100%;
+    height: 150px;
+    border: black 2px solid;
+    line-height: 30px;
+}
+
+.plan-description{
+    width: 100%;
+    height: 150px;
+    border: black 2px solid;
+    line-height: 30px;
+}
+
+.plan-description ul li{
+    list-style: none;
+}
+
+.free-trial{
+    width: 100%;
+    height: 150px;
+    border: black 2px solid;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.trial-button{
+    width: 100%;
+    height: 60px;
+    background-color: #0077ff;
+    line-height: 50px;
+    color: white;
+}
+
+.free-trial hr{
+    width: 50px;
+    border: black 1px inset;   
 }
