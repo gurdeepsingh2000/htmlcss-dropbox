@@ -147,3 +147,9 @@ font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
     margin-top: 40px;
 }
+
+.first-block,.second-block,.third-block{
+    height: 850px;
+    border: black 2px solid;
+    width: calc(100% / 3);
+}
