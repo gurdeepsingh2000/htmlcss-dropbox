@@ -23,7 +23,6 @@ font-family: 'Open Sans', sans-serif;
     width: 100%;
     background: lightblue;
     height: 100px;
-    position: fixed;
 }
 
 .dropbox-logo{
@@ -70,9 +69,53 @@ font-family: 'Open Sans', sans-serif;
 
 
 .first-container{
-    height: 800px;
+    padding-top: 40px;
+    height: 100vh;
     background: tomato;
 }
+
+.sub-container{
+    width: 70%;
+    background: yellowgreen;
+    height: 800px;
+    margin: 0 auto;
+}
+
+.first-container .sub-container h1{
+    font-size: 70px;
+}
+
+.box-sx{
+    width: 30%;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+.central-button{
+    width: 300px;
+    height: 50px;
+    background-color: #0077ff;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+
+
+.first-container .sub-container .central-button,.void{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.box-dx{
+    padding-top: 50px;
+}
+
+.arrow{
+    font-size: 60px;
+}
+
+
 
 
 
