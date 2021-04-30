@@ -59,10 +59,21 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .dx-button{
-    width: 90px ;
+    width: 120px ;
     height: 45px;
     background-color: #3B96FF;
-    line-height: 25px;
+    line-height: 45px;
+    margin: 20px;
+    text-align: center;
+    color: white;
 }
+
+
+.first-container{
+    height: 800px;
+    background: tomato;
+}
+
+
 
 
