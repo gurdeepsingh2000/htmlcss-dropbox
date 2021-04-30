@@ -123,7 +123,7 @@ font-family: 'Open Sans', sans-serif;
 
 .sub-container1{
     width: 70%;
-    height: 1100px;
+    height: 1200px;
     margin: 0 auto;
     background-color: greenyellow;
 }
@@ -142,7 +142,8 @@ font-family: 'Open Sans', sans-serif;
 
 .blocks-container{
     background: darkkhaki;
-    height: 200px;
+    height: 900px;
     width: 80%;
     margin: 0 auto;
+    margin-top: 40px;
 }
