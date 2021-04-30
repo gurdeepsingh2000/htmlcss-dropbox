@@ -1,0 +1,68 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+font-family: 'Open Sans', sans-serif;
+}
+
+.fl{
+    float: left;
+}
+
+.fr{
+    float:right;
+}
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.bar{
+    width: 100%;
+    background: lightblue;
+    height: 100px;
+    position: fixed;
+}
+
+.dropbox-logo{
+    width: 10%;
+    padding: 30px 0px 0px 40px;
+    line-height: 25px;
+}
+
+.sx-menu{
+    width: 25%;
+    padding: 30px 0px 0px 40px;
+    line-height: 25px;
+}
+
+.sx-menu ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+.dx-menu{
+    width: 25%;
+    padding: 30px 0px 0px 40px;
+    line-height: 25px;
+}
+
+.dx-menu ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+.dx-button{
+    width: 90px ;
+    height: 45px;
+    background-color: #3B96FF;
+    line-height: 25px;
+}
+
+
