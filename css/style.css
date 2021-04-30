@@ -21,7 +21,7 @@ font-family: 'Open Sans', sans-serif;
 
 .bar{
     width: 100%;
-    background: lightblue;
+    background: rgb(255, 255, 255);
     height: 100px;
 }
 
@@ -70,15 +70,15 @@ font-family: 'Open Sans', sans-serif;
 
 .first-container{
     padding-top: 40px;
-    height: 100vh;
-    background: tomato;
+    height: 800px;
+    background: #B4D0E7;
 }
 
 .sub-container{
     width: 70%;
-    background: yellowgreen;
     height: 800px;
     margin: 0 auto;
+    background-color: greenyellow;
 }
 
 .first-container .sub-container h1{
@@ -115,7 +115,31 @@ font-family: 'Open Sans', sans-serif;
     font-size: 60px;
 }
 
+.second-container{
+    height: 2200px;
+    background: #496379;
+    padding-top: 300px;
+}
 
+.sub-container1{
+    width: 70%;
+    height: 1400px;
+    margin: 0 auto;
+    background-color: greenyellow;
+    text-align: center;
+    line-height: 120px;
+}
+
+.txt1{
+    font-size: 50px;
+    font-weight: 600;
+    
+}
+
+.boxes{
+    width: 66%;
+    font-size: 25px;
+}
 
 
 
