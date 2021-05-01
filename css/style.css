@@ -76,7 +76,7 @@ font-family: 'Open Sans', sans-serif;
 
 .sub-container{
     width: 70%;
-    height: 800px;
+    height: 700px;
     margin: 0 auto;
     background-color: greenyellow;
 }
@@ -256,7 +256,7 @@ font-family: 'Open Sans', sans-serif;
 
 
 .third-container{
-    height: 900px;
+    height: 1300px;
     background-color: burlywood;
     padding-top: 20px;
 }
@@ -264,7 +264,7 @@ font-family: 'Open Sans', sans-serif;
 .sub-container2{
     max-width: 70%;
     background-color: rgb(59, 168, 172);
-    height: 700px;
+    height: 1200px;
     margin: 0 auto;
     padding-top: 20px;
 }
@@ -274,6 +274,8 @@ font-family: 'Open Sans', sans-serif;
     height: 350px;
     margin: 0 auto;
     background: antiquewhite;
+    margin-bottom: 140px;
+    margin-top: 80px;
 }
 
 .name-box{
@@ -306,6 +308,7 @@ font-family: 'Open Sans', sans-serif;
 .business-plan{
     font-size: 30px;
     font-weight: bold;
+    margin-bottom: 30px;
 }
 
 
@@ -316,4 +319,36 @@ font-family: 'Open Sans', sans-serif;
     line-height: 60px;
     color: white;
     text-align: center;
+}
+
+.find-partner{
+    width: 78%;
+    border: black 2px solid;
+    height:  600px;
+    margin: 0 auto;
+}
+
+.img-template{
+    height: 600px;
+    width: 50%;
+    background: url(../img/partner.png);
+    background-size: cover;
+    background-position: center;
+    border: black 2px solid;
+}
+
+.enter-now{
+    height: 600px;
+    width: 50%;
+    border: black 2px solid;
+    line-height: 26px;
+    padding:150px 60px 0px 110px ;
+}
+
+.search-partner{
+    width: 200px;
+    height: 50px;
+    margin-top: 30px;
+    background-color: white;
+    border: black 2px solid ;
 }
