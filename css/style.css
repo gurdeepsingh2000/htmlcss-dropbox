@@ -383,3 +383,75 @@
         height: 750px;
     }
 
+
+    .img-container{
+        height: 400px;
+        width: 100%;
+        background-position: center;
+        background-size: contain;
+        margin: 0 auto;
+        background-repeat: no-repeat;
+    }
+
+    .img1{
+        background-image: url(../img/business-feature-switching-tools.png);
+    }
+
+    .img2{
+        background-image: url(../img/business-feature-coordinate-it.png);
+    }
+
+    .img3{
+        background-image: url(../img/business-feature-multi-device.png);
+    }
+
+    .img4{
+        background-image: url(../img/business-feature-integrations-it.png);
+    }
+
+    .img5{
+        background-image: url(../img/business-feature-send-files-it.png);
+    }
+
+    .img6{
+        background-image: url(../img/business-feature-security.png);
+    }
+
+    .text-container{
+        font-size: 40px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        line-height: 40px;
+    }
+
+    p{
+        font-size: 20px;
+    }
+
+
+    .usage-amount{
+        width: 1500px;
+        background-color:burlywood;
+        margin: 0 auto;
+        height: 200px;
+        padding-right: 650px;
+        line-height: 70px;
+        margin-bottom: 20px;
+    }
+
+
+    .users-amount{
+        font-size: 60px;
+        font-weight: bold;
+    }
+
+    .explore-us{
+    font-size: 20px;
+    }
+
+
+    .table-block{
+        width: calc(100% / 3);
+        border: 2px solid black;
+        height: 800px;
+    }
