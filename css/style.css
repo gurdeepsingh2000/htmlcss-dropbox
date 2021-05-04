@@ -455,3 +455,205 @@
         border: 2px solid black;
         height: 800px;
     }
+
+    .brand{
+        width: calc(100% / 2);
+        height:400px ;
+        border: black 2px solid;
+        text-align: center;
+        
+    }
+
+    .designit{
+        background-color: #A2D39B;
+        line-height: 500px;
+    }
+
+    .svg1{
+        width: 300px;
+    }
+
+    .asu{
+        background-color: #61082B;
+        line-height: 600px;
+    }
+
+    .svg2{
+        width: 250px;
+    }
+
+    .florida{
+        background-color: #0093CE;
+        line-height: 450px;
+    }
+
+    .svg3{
+        width: 250px;
+    }
+
+    .topps{
+         background-color: #FE2B2B;
+        line-height: 500px;
+    }
+
+    .svg4{
+        width: 250px;
+    }
+
+    .bicycle{
+        background-color: #D5001F;
+        line-height: 500px;
+    }
+
+    .hearst{
+        background-color: #B4D0E7;
+        line-height: 400px;
+    }
+
+    .lonely-planet{
+        background-color: #0D2481;
+        line-height: 500px;
+    }
+
+    .clear-chanel{
+        background-color: #FFD830;
+        line-height: 550px;
+    }
+
+    .table-block{
+        background-color: #a39e9e;
+    }
+
+    .table-block .logo-clear hr{
+        width: 10%;
+    }
+
+    .centralblock{
+        padding: 80px 140px 0px 100px
+    }
+
+    .fifth-container{
+        height: 800px
+    }
+
+    .logo-clear{
+        margin-bottom: 100px;
+    }
+
+    .txt-description{
+        font-size: 25px;
+    }
+
+    .sixth-container{
+        height: 500px;
+        background-color: #B4D0E7;
+        margin: 0 auto;
+        padding-top: 150px;
+    }
+
+    .dropbox-business{
+        font-size: 50px;
+        font-weight: bold;
+        color :#630e31 ;
+    }
+
+    .start-trial{
+        width: 420px;
+        height: 60px;
+        background-color: #ffffff;
+        line-height: 60px;
+        color: black;
+        text-align: center;
+        font-size: 20px;
+        margin-right: 50px;
+    }
+
+    .sub-container4{
+        height: 200px;
+        background: yellow;
+        margin: 0 auto;
+        width: 70%;
+        padding: 50px 0px 0px 300px;
+    }
+
+    .seventh-container{
+        height: 1000px;
+        background-color: #094c83;
+        padding-top: 150px;
+    }
+
+
+    .sub-container5{
+        height: 700px;
+        background: yellow;
+        margin: 0 auto;
+        width: 70%;
+        padding: 50px 0px 0px 300px
+    }
+
+    .question{
+        font-size: 50px;
+        font-weight: bold;
+        margin-bottom: 50px;
+    }
+
+    .paragraph{
+        font-size: 30px;
+        padding: 40px 0px
+    }
+
+    .arrow-down{
+        font-size: 30px;
+        width: 100px;
+    }
+
+    footer{
+        height: 900px;
+        background: black;
+        padding-top: 20px;
+        color: white;
+    }
+
+    .block-footer{
+        height: 700px;
+        width: 50%;
+        border: white 2px solid;
+        margin: 0 auto ;
+    }
+
+    
+    .container-dropbox{
+        width: calc(100% / 5);
+        height: 100%;
+        border: white 2px solid;
+    }
+
+
+    .heading-txt{
+        font-size: 25px;
+        font-weight: bold;
+        margin-bottom: 40px;
+        padding-top: 40px;
+    }
+
+
+    .list ul li{
+        font-size: 20px;
+        color: white;
+        list-style: none;
+        margin-bottom: 40px;
+    }
+
+    footer hr{
+        width: 10%;
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-left: 715px;
+        margin-bottom: 50px;
+    }
+
+    .language{
+        margin-left: 715px;
+    }
+
+
